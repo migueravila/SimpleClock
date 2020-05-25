@@ -17,6 +17,7 @@ body {
     justify-content: center;
     align-items: center;
     background: white url(img/clock.png);
+    background-size: cover;
     border-radius: 50%;
     border: 20px solid #fff;
     box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.1),
@@ -81,7 +82,7 @@ body {
     position: absolute;
     width: 3px;
     height: 130px;
-    background: #cccf0b;
+    background: #d1d40f;
     z-index: 12;
     border-radius: 6px 6px 0 0;
 }
